@@ -6,7 +6,7 @@ I'm Eric, a data analyst and digital marketing director. I contribute to the str
 
 This is a simple word game where players must guess multiple items of a list based on a single clue. 
 
-![screenshot](https://maveric86.github.io/CLUELIST.png)
+![cluelist](https://maveric86.github.io/CLUELIST.png)
 
 * This project is published on W3Spaces [Web Game - CLUELIST](https://phraser.w3spaces.com/)
 
